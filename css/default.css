@@ -9410,6 +9410,11 @@ form .page .btns button.next {
     display: flex;
   }
   
+  @media screen and (max-width: 40px) {
+  .sponsor_section .column {
+    width: 10px;
+  }
+}
   
 }
 
